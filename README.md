@@ -1,5 +1,5 @@
   # Json Structure
-![alt text](./misclassified.png)
+![alt text](./Capture.PNG)
 
 
 * https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html is used for annaotating the image.
